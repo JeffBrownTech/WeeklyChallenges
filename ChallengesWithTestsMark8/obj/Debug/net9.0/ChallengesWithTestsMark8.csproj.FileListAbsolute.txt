@@ -1,0 +1,15 @@
+C:\gh\WeeklyChallenges\ChallengesWithTestsMark8\bin\Debug\net9.0\ChallengesWithTestsMark8.exe
+C:\gh\WeeklyChallenges\ChallengesWithTestsMark8\bin\Debug\net9.0\ChallengesWithTestsMark8.deps.json
+C:\gh\WeeklyChallenges\ChallengesWithTestsMark8\bin\Debug\net9.0\ChallengesWithTestsMark8.runtimeconfig.json
+C:\gh\WeeklyChallenges\ChallengesWithTestsMark8\bin\Debug\net9.0\ChallengesWithTestsMark8.dll
+C:\gh\WeeklyChallenges\ChallengesWithTestsMark8\bin\Debug\net9.0\ChallengesWithTestsMark8.pdb
+C:\gh\WeeklyChallenges\ChallengesWithTestsMark8\obj\Debug\net9.0\ChallengesWithTestsMark8.GeneratedMSBuildEditorConfig.editorconfig
+C:\gh\WeeklyChallenges\ChallengesWithTestsMark8\obj\Debug\net9.0\ChallengesWithTestsMark8.AssemblyInfoInputs.cache
+C:\gh\WeeklyChallenges\ChallengesWithTestsMark8\obj\Debug\net9.0\ChallengesWithTestsMark8.AssemblyInfo.cs
+C:\gh\WeeklyChallenges\ChallengesWithTestsMark8\obj\Debug\net9.0\ChallengesWithTestsMark8.csproj.CoreCompileInputs.cache
+C:\gh\WeeklyChallenges\ChallengesWithTestsMark8\obj\Debug\net9.0\ChallengesWithTestsMark8.sourcelink.json
+C:\gh\WeeklyChallenges\ChallengesWithTestsMark8\obj\Debug\net9.0\ChallengesWithTestsMark8.dll
+C:\gh\WeeklyChallenges\ChallengesWithTestsMark8\obj\Debug\net9.0\refint\ChallengesWithTestsMark8.dll
+C:\gh\WeeklyChallenges\ChallengesWithTestsMark8\obj\Debug\net9.0\ChallengesWithTestsMark8.pdb
+C:\gh\WeeklyChallenges\ChallengesWithTestsMark8\obj\Debug\net9.0\ChallengesWithTestsMark8.genruntimeconfig.cache
+C:\gh\WeeklyChallenges\ChallengesWithTestsMark8\obj\Debug\net9.0\ref\ChallengesWithTestsMark8.dll
